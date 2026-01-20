@@ -2,6 +2,9 @@
 
 ## Обзор проекта
 
+Схема базы данных:  
+![schema](https://github.com/v-makarov-code/product-delivery-app-dashboard/blob/main/database_schema.jpg)
+
 **Цель:** Разработать дашборд в Redash с основными метриками по продукту 
 **Задачи:**  
 1. Проанализировать, насколько быстро растёт аудитория сервиса, и посмотреть на динамику числа пользователей и курьеров.
@@ -20,3 +23,7 @@
 ## Вид дашборда 
 
 [Ссылка на дашборд](https://redash.public.karpov.courses/public/dashboards/Yn4S58bKNYqrVctQdbP3eIK24A3lYrl2zsXxYYAW?org_slug=default)
+![dashboard1](https://github.com/v-makarov-code/product-delivery-app-dashboard/blob/main/dashboard_1.png)
+![dashboard2](https://github.com/v-makarov-code/product-delivery-app-dashboard/blob/main/dashboard_2.png)
+![dashboard3](https://github.com/v-makarov-code/product-delivery-app-dashboard/blob/main/dashboard_3.png)
+![dashboard4](https://github.com/v-makarov-code/product-delivery-app-dashboard/blob/main/dashboard_4.png)
